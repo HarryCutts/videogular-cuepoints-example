@@ -7,9 +7,9 @@
   ],
   "license": "MIT",
   "main": "index.html",
-  "dependencies": [
+  "dependencies": {
 	  "videogular-cuepoints": "latest"
-  ],
+  },
   "ignore": [
     "**/.*",
     "node_modules",
